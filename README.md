@@ -50,3 +50,8 @@ Imágenes
 
 http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg
 ![colores](http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg)
+
+|Cabecera 1 |Cabecera 2 |
+|---------- |-----------|
+| celda 1 A | celda 2 A |
+| celda 1 B | celda 2 B |

@@ -23,3 +23,12 @@ _cursiva_
 1. segundo elemento
 1. tercer elemento
 1. cuarto
+
+LISTA NO NUMERADA
+* Primer elemneto
+ * Subelemento
+  * Sub-sub elemento
+ * Otro subelemento
+* Otro elemento
+
+ 

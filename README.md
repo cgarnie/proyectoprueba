@@ -34,3 +34,6 @@ _________________________________________________
  _ _ _ _ _
 `` HOLA``
 Enlace a [Mi blog](http:www.psicobyte.com)
+E[Enlace por referencia][1]
+La referencia [puede ser un texto]
+[o el propio texto]

@@ -38,4 +38,15 @@ E[Enlace por referencia][1]
 La referencia [puede ser un texto]
 [o el propio texto]
 Imágenes
-(img/migato.jpg
+(img/migato.jpg)
+
+
+
+
+
+
+
+
+
+http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg
+![colores](http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg)
